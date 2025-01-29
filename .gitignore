@@ -1,1 +1,5 @@
 env
+management/__pycache__
+hospital/__pycache__/urls.cpython-312.pyc
+hospital/__pycache__/wsgi.cpython-312.pyc
+hospital/__pycache__/settings.cpython-312.pyc
